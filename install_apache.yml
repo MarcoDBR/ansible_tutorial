@@ -16,4 +16,4 @@
   - name: my add php support for apache
     apt:
       name: libapache2-mod-php
-      state: latest
+      atate: latest
