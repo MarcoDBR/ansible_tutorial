@@ -16,4 +16,4 @@
   - name: my remove php support for apache
     apt:
       name: libapache2-mod-php
-      atate: absent
+      state: absent
